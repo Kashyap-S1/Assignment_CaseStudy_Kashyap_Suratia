@@ -1,4 +1,4 @@
-# UnitOneAssignment_KashyapSuratia
+# _Kashyap_Suratia
 Assignment  1 - Case Study.
 FinTech-Case-Study : A case study observing SOFI (Social Finance,Inc)
 
