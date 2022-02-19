@@ -1,5 +1,5 @@
 # _Kashyap_Suratia
-Case Study.
+
 FinTech-Case-Study : A case study observing SOFI (Social Finance,Inc)
 
 Overview and origin :
